@@ -1,0 +1,11 @@
+********************TIcket Details**********************
+PNR: PS_3829_103
+Train No: 234
+Train Name: Deccan
+From: Pune
+To: Solapur
+Date: 1929-09-11
+Passenger Details: 
+Name	Age	Gender	Fare
+Priya	11	F	175.0
+Deepali	24	F	87.5
